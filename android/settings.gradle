@@ -1,0 +1,3 @@
+rootProject.name = 'sellbnb'
+
+include ':app'
